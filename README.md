@@ -6,7 +6,8 @@
   </a>
 </p>
 
-<h3>🛠Skill Stack🛠</h3>
+<h3>🛠Skill🛠</h3>
+<h5 Language & Framework>
 <p>
   <img src="https://img.shields.io/badge/C-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
@@ -25,6 +26,7 @@
   <img src="https://img.shields.io/badge/TypeScript-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
 </p>
+</h5>
 
 <h3>:rainbow: About me :rainbow:</h3>
 <p>
