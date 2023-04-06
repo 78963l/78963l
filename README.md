@@ -53,6 +53,9 @@
   </a>
 </p>
 
+<hr></hr>
+
+<div align='center'>
 <h3>:rainbow: About me :rainbow:</h3>
 <p>
   <a href="https://velog.io/@78963l_sm" target="_blank">
@@ -62,3 +65,4 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
   </a>
 </p>
+</div>
