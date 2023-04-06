@@ -1,12 +1,20 @@
 <h2>👋 Hi there 👋</h2>
 <p>🌱 I'm Sungmin, a growing developer. 🌱</p>
+
+<hr></hr>
+
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=78963l&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
   </a>
 </p>
 
+<hr></hr>
+
 <h3>🛠 Skill 🛠</h3>
+
+<hr></hr>
+
 <h5>🧑‍💻Language & Framework </h5>
 <p>
   <img src="https://img.shields.io/badge/C-00ADD8?style=flat-square&logo=C&logoColor=white"/>
@@ -28,6 +36,7 @@
 </p>
 
 <h5>⚙️DevOps</h5>
+
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
   <br>
@@ -46,6 +55,7 @@
   <img src="https://img.shields.io/badge/FireBase-00ADD8?style=flat-square&logo=Firebase&logoColor=white"/>
 </p>
 
+<hr></hr>
 
 <h3>:rainbow: About me :rainbow:</h3>
 <p>
