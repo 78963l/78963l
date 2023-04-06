@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/C++-00ADD8?style=flat-square&logo=C++&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00ADD8?style=flat-square&logo=C#&logoColor=white"/>
   <br>
-  <img src="https://img.shields.io/badge/Java-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-00ADD8?style=flat-square&logo=Java&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
   <br>
