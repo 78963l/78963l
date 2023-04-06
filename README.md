@@ -12,7 +12,8 @@
 <hr></hr>
 
 <h3>🛠 Skill 🛠</h3>
-<h5>🧑‍💻Language & Framework </h5>
+<div>
+  <h5>🧑‍💻Language & Framework </h5>
 <p>
   <img src="https://img.shields.io/badge/C-00ADD8?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00ADD8?style=flat-square&logo=C++&logoColor=white"/>
@@ -31,7 +32,9 @@
   <img src="https://img.shields.io/badge/TypeScript-00ADD8?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-00ADD8?style=flat-square&logo=React&logoColor=white"/>
 </p>
+  </div>
 
+<div>
 <h5>⚙️DevOps</h5>
 
 <p>
@@ -51,6 +54,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=Mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/FireBase-00ADD8?style=flat-square&logo=Firebase&logoColor=white"/>
 </p>
+  </div>
 
 <hr></hr>
 
