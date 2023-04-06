@@ -42,8 +42,8 @@
   <img src="https://img.shields.io/badge/PyCharm-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vim-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
   <br>
-  <img src="https://img.shields.io/badge/MongoDB-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FireBase-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=Mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FireBase-00ADD8?style=flat-square&logo=Firebase&logoColor=white"/>
 </p>
 
 
