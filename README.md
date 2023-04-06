@@ -1,5 +1,5 @@
 <h2>👋 Hey! Nice to see you 👋</h2>
-<p>Welcome to my profile!<br>I'm Chaeyun, Junior Backend developer from Korea.</p>
+<p>Welcome to my profile!<br>I'm Sungmin, Junior developer from Korea.</p>
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=78963l&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
