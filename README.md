@@ -7,7 +7,7 @@
 </p>
 
 <h3>🛠 Skill 🛠</h3>
-<h5>Language & Framework </h5>
+<h5>🧑‍💻Language & Framework </h5>
 <p>
   <img src="https://img.shields.io/badge/C-00ADD8?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00ADD8?style=flat-square&logo=C++&logoColor=white"/>
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/React-00ADD8?style=flat-square&logo=React&logoColor=white"/>
 </p>
 
-<h5>DevOps</h5>
+<h5>⚙️DevOps</h5>
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
   <br>
