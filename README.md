@@ -6,6 +6,8 @@
   </a>
 </p>
 
+<3>
+
 <h3>:rainbow: About me :rainbow:</h3>
 <p>
   <a href="https://velog.io/@78963l_sm" target="_blank">
