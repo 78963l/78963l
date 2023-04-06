@@ -17,7 +17,7 @@
   <br>
   <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
   <br>
-  <img src="https://img.shields.io/badge/Python-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-00ADD8?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pyside2-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/HTML-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
