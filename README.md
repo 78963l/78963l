@@ -2,8 +2,8 @@
 
 <hr></hr>
 
+<div align='center'>
 <h3>🛠 Skill 🛠</h3>
-<div style="width:50%">
   <h5>🧑‍💻Language & Framework </h5>
 <p>
   <img src="https://img.shields.io/badge/C-00ADD8?style=flat-square&logo=C&logoColor=white"/>
@@ -23,9 +23,7 @@
   <img src="https://img.shields.io/badge/TypeScript-00ADD8?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-00ADD8?style=flat-square&logo=React&logoColor=white"/>
 </p>
-  </div>
 
-<div style="width:50%">
 <h5>⚙️DevOps</h5>
 
 <p>
@@ -45,7 +43,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=Mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/FireBase-00ADD8?style=flat-square&logo=Firebase&logoColor=white"/>
 </p>
-  </div>
+</div>
 
 <hr></hr>
 
