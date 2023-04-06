@@ -20,8 +20,8 @@
   <img src="https://img.shields.io/badge/Python-00ADD8?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pyside2-00ADD8?style=flat-square&logo=Pyside2&logoColor=white"/>
   <br>
-  <img src="https://img.shields.io/badge/HTML-00ADD8?style=flat-square&logo=HTML&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-00ADD8?style=flat-square&logo=CSS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-00ADD8?style=flat-square&logo=Html&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-00ADD8?style=flat-square&logo=Css&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-00ADD8?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-00ADD8?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-00ADD8?style=flat-square&logo=React&logoColor=white"/>
