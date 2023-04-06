@@ -1,11 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Sungmin%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20🌱I`m%20a%20growing%20full%20stack%20developer!🌱&descAlignY=51&descAlign=62)
 
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=78963l&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
-  </a>
-</p>
-
 <hr></hr>
 
 <h3>🛠 Skill 🛠</h3>
@@ -54,6 +48,12 @@
   </div>
 
 <hr></hr>
+
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=78963l&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+  </a>
+</p>
 
 <h3>:rainbow: About me :rainbow:</h3>
 <p>
