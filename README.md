@@ -63,5 +63,8 @@
   <a href="https://messy-agreement-735.notion.site/doodle-98a3aa68b08a4354b75483581311ae7f" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
   </a>
+    <a href="78963l@naver.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+  </a>
 </p>
 </div>
