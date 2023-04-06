@@ -12,7 +12,7 @@
 <hr></hr>
 
 <h3>🛠 Skill 🛠</h3>
-<div>
+<div style="width:50%">
   <h5>🧑‍💻Language & Framework </h5>
 <p>
   <img src="https://img.shields.io/badge/C-00ADD8?style=flat-square&logo=C&logoColor=white"/>
@@ -34,7 +34,7 @@
 </p>
   </div>
 
-<div>
+<div style="width:50%">
 <h5>⚙️DevOps</h5>
 
 <p>
