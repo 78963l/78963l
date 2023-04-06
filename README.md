@@ -27,6 +27,25 @@
   <img src="https://img.shields.io/badge/React-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
 </p>
 
+<h5>DevOps</h5>
+<p>
+  <img src="https://img.shields.io/badge/Linux(CentOS 7.4)-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Unity-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maya-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AndroidStudio-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Electron-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/AWS EC2-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Visual Code-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vim-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/MongoDB-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FireBase-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+</p>
+
 
 <h3>:rainbow: About me :rainbow:</h3>
 <p>
