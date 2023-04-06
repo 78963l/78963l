@@ -7,6 +7,24 @@
 </p>
 
 <h3>🛠Skill Stack🛠</h3>
+<p>
+  <img src="https://img.shields.io/badge/C-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C#-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Java-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Python-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pyside2-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/HTML-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+</p>
 
 <h3>:rainbow: About me :rainbow:</h3>
 <p>
