@@ -7,7 +7,8 @@
 </p>
 
 <h3>🛠Skill🛠</h3>
-<h5 Language & Framework>
+<h5>
+  Language & Framework
 <p>
   <img src="https://img.shields.io/badge/C-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
