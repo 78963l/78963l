@@ -6,22 +6,21 @@
 <h3>🛠 Skill 🛠</h3>
   <h5>🧑‍💻Language & Framework </h5>
 <p>
-  <img src="https://img.shields.io/badge/C-00ADD8?style=flat-square&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00ADD8?style=flat-square&logo=C++&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00ADD8?style=flat-square&logo=C#&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
   <br>
-  <img src="https://img.shields.io/badge/Java-00ADD8?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-FF9E0F?style=flat-square&logo=Java&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
   <br>
-  <img src="https://img.shields.io/badge/Python-00ADD8?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pyside2-00ADD8?style=flat-square&logo=Pyside2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pyside2-ECD53F?style=flat-square&logo=Pyside2&logoColor=white"/>
   <br>
-  <img src="https://img.shields.io/badge/HTML-00ADD8?style=flat-square&logo=Html&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-00ADD8?style=flat-square&logo=Css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-00ADD8?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-00ADD8?style=flat-square&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-00ADD8?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=Html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=Css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 </p>
 
 <h5>⚙️DevOps</h5>
@@ -29,19 +28,19 @@
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
   <br>
-  <img src="https://img.shields.io/badge/Unity-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maya-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AndroidStudio-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Electron-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Maya-00ADD8?style=flat-square&logo=&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
   <br>
-  <img src="https://img.shields.io/badge/Visual Code-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyCharm-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vim-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/>
   <br>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=Mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FireBase-00ADD8?style=flat-square&logo=Firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FireBase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
 </p>
 </div>
 
