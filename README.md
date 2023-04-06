@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<h3>🛠</h3>
+<h3>🛠Skill Stack🛠</h3>
 
 <h3>:rainbow: About me :rainbow:</h3>
 <p>
