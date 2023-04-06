@@ -1,12 +1,12 @@
-<h2>👋 Hey! Nice to see you 👋</h2>
-<p>Welcome to my profile!<br>I'm Sungmin, Junior developer from Korea.</p>
+<h2>👋 Hi there 👋</h2>
+<p>I'm Sungmin, a growing developer.🌱</p>
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=78963l&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
   </a>
 </p>
 
-<h3>🌱 About me 🌱</h3>
+<h3>:rainbow: About me :rainbow:</h3>
 <p>
   <a href="https://velog.io/@78963l_sm" target="_blank">
     <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
