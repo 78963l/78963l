@@ -26,6 +26,7 @@
 <h5>⚙️DevOps</h5>
 
 <p>
+  <img src="https://img.shields.io/badge/Window-0080FF?style=flat-square&logo=Windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/>
