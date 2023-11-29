@@ -67,5 +67,9 @@
     <a href="mailto:78963l@naver.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
   </a>
+  </a>
+    <a href="[mailto:78963l@naver.com](https://play.google.com/store/apps/developer?id=SungMin&hl=ko&gl=US)" target="_blank">
+    <img src="https://img.shields.io/badge/GPlay-414141?style=flat-square&logo=GooglePlay&logoColor=white"/>
+  </a>
 </p>
 </div>
